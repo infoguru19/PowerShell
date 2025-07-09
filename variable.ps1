@@ -2,8 +2,8 @@ $MyName = 'Ravi Ranjan'
 $myAddress = 'Bengaluru'
 $pincode = 560087
 
-$MyName
-$myAddress
+"My Name is $($MyName)"
+"My Address is $($myAddress)"
 $pincode
 
 $myAddress.Length           # Length is Property
