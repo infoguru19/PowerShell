@@ -28,5 +28,6 @@
 9. Switch
 10. Hashtable
 11. CustomObject
-12. Pipeline
-13. try-catch
+12. List of CustomObject
+13. Pipeline
+14. try-catch
