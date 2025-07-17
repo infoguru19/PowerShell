@@ -9,3 +9,4 @@ $pincode
 $myAddress.Length           # Length is Property
 $myAddress.GetType()        # GetType is Method
 
+
