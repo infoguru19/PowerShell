@@ -17,16 +17,16 @@
 - Widely used by IT professionals and power users for system administration, configuration management, and automating repetitive tasks in various environments, including local systems, cloud platforms (like Azure), and virtualized environments.
 
 # Content
-1 PSTest1
-2 Variable
-3 Arithmetic Operators
-4 comparison
-5 Conditional
-6 looping
-7 doWhile
-8 Array
-9 Switch
-10 Hashtable
-11 CustomObject
-12 Pipeline
-13 try-catch
+1. PSTest1
+2. Variable
+3. Arithmetic Operators
+4. comparison
+5. Conditional
+6. looping
+7. doWhile
+8. Array
+9. Switch
+10. Hashtable
+11. CustomObject
+12. Pipeline
+13. try-catch
