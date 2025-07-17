@@ -1,6 +1,6 @@
-Get-Service
+Get-Service                 # verb-noun
 Get-Date
-Get-Command
-Get-Command -Noun Service
-Get-Command -Verb Install
+Get-Command                 # List all the commands
+Get-Command -Noun Service   # List commands associated with the Service noun
+Get-Command -Verb Install   # List Commands all Commands with Install Verb
 
