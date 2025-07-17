@@ -12,8 +12,8 @@ $Settings["appname", "Version"]  # Not Case Sensitive
 $Settings["version"] = "v2"     # Change Value
 $Settings["version"]
 
-$Settings.ContainsKey("Vesrion")  # To check vesion Preent or not
-
+# To check "version" key Present or not
+$Settings.ContainsKey("Vesrion")   # True as it present with Version : v2
 foreach ($i in $Settings)
 {
     $i          # Print Entire Dictionary
