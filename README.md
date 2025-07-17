@@ -15,3 +15,14 @@
 - Unlike traditional command-line interfaces that primarily deal with text, PowerShell works with objects, allowing for more precise and powerful manipulation of system components.
 ### Applications:
 - Widely used by IT professionals and power users for system administration, configuration management, and automating repetitive tasks in various environments, including local systems, cloud platforms (like Azure), and virtualized environments.
+
+  # Content
+  - PSTest1
+  - Variable
+  - Arithmetic Operator
+  - comparison
+  - Conditional
+  - looping
+  - doWhile
+  - Array
+  - Switch
