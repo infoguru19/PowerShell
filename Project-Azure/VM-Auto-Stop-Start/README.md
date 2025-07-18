@@ -89,9 +89,10 @@ We'll configure Azure Monitor Alerts on the Automation Account’s runbook jobs,
 ### 🔧 Step 1: Create an Action Group for Email
 Go to Azure Portal → search "Action Groups" → click Create.
 
-Fill in:
+**Fill in:**
 
-```Subscription
+```
+Subscription
 
 Resource Group
 
@@ -111,7 +112,8 @@ Enter your email address.
 
 Click OK.
 
-Click Review + Create.```
+Click Review + Create.
+```
 
 ### 🧠 Step 2: Create Alert Rules for Success and Failure
 You’ll create two alert rules — one for failure, and optionally one for success.
@@ -119,7 +121,8 @@ You’ll create two alert rules — one for failure, and optionally one for succ
 🚨 Alert on Failure
 Go to your Automation Account.
 
-```Go to Alerts → + New Alert Rule.
+```
+Go to Alerts → + New Alert Rule.
 
 Scope: Select your Automation Account.
 
@@ -141,7 +144,8 @@ Severity: Choose severity (e.g., Sev 2 or 3)
 
 Enable Rule: Yes
 
-Click Create```
+Click Create
+```
 
 ### ✅ (Optional) Alert on Success
 Repeat the same steps, but in `Step 4`, set:
